@@ -1,0 +1,22 @@
+
+y
+java:S1153"1Directly append the argument of String.valueOf().(¢–°ºÿÿÿÿÿ8†¶®”¾2J$c5878bf6-d965-4f06-a61b-0786223d7049
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(†‹ŠÖþÿÿÿÿ8ˆ¶®”¾2J$1d228bcd-149d-4e1c-8859-269c028f2dbf
+}
+java:S1854"5Remove this useless assignment to local variable "n".(˜õª»ÿÿÿÿÿ8”¶®”¾2J$5866addb-a162-4675-9a89-e1ca027da0b1
+n
+java:S1481"&Remove this unused "n" local variable.(˜õª»ÿÿÿÿÿ8•¶®”¾2J$bfdbc14b-8436-42e8-b226-3c5429489f5d
+w
+java:S1611"/Remove the parentheses around the "x" parameter(¢–°ºÿÿÿÿÿ8–¶®”¾2J$437b9f2a-baf1-4d6e-a66c-73d1c391325b
+m	java:S106"+Replace this use of System.out by a logger.(É„†ú8˜¶®”¾2J$6e988fc5-27ed-4481-aa23-a968010d3dba
+r	java:S106"+Replace this use of System.out by a logger.(µÏ…èùÿÿÿÿ8˜¶®”¾2J$703b9d08-5927-495c-bb49-53b8b7b992e8
+{
+java:S3878"8Remove this array creation and simply pass the elements.(¥òÐà8š¶®”¾2J$ab350302-49a6-4ac1-a1c9-d0a7ed3d9c49
+w
+java:S1611"/Remove the parentheses around the "x" parameter(ÕÕƒáÿÿÿÿÿ8š¶®”¾2J$bbfd67d7-4cc0-40c8-898b-e21cc352fe5f
+|
+java:S1612"4Replace this lambda with method reference 'pq::add'.(ÕÕƒáÿÿÿÿÿ8›¶®”¾2J$7c9e4b28-fcde-436c-8e4b-6cf4752873f2
+X	java:S125"<This block of commented-out lines of code should be removed.(âÅ­8Øò¯”¾2
+m	java:S106""+Replace this use of System.out by a logger.(¿“•¿8œ¶®”¾2J$6c2e0dfe-aa42-417a-b851-8cafc7df3b63
+u
+java:S1128	"-Remove this unused import 'java.util.Random'.(èøÉ›ùÿÿÿÿ8¶®”¾2J$f77548b9-c08e-425c-acff-1fde3ac8ac3c

@@ -1,0 +1,13 @@
+
+]
+java:S1220""Move this file to a named package.8Ä´‹¹½2J$e48d577d-2725-4400-a577-8194c870918a
+y
+java:S11539"1Directly append the argument of String.valueOf().(êîˆ´ùÿÿÿÿ8Å´‹¹½2J$28b82c0d-f2e4-4eb8-a0d1-93be6a372329
+œ
+java:S12100"YOverride "equals(Object obj)" to comply with the contract of the "compareTo(T o)" method.(ÜÙÌ©8Ë´‹¹½2J$8028732c-fcff-4816-b1d4-237ed56b9c65
+m	java:S106="+Replace this use of System.out by a logger.(÷¹§µ8Ñ´‹¹½2J$7a9db214-aaec-4692-a498-e0bee1ad761a
+›
+java:S1602?"SRemove useless curly braces around statement and then remove useless return keyword(Î±À‘ÿÿÿÿÿ8Ò´‹¹½2J$9e0561e5-ee8c-4584-92af-58f5e1348293
+r	java:S106B"+Replace this use of System.out by a logger.(£ýíÌþÿÿÿÿ8Ò´‹¹½2J$48b866c3-4a7b-4b38-a68e-d9c80051208c
+€
+java:S1128"8Remove this unused import 'java.util.stream.Collectors'.(Óóº´úÿÿÿÿ8À²’¹½2J$d1aad175-79cf-40c1-93dc-372a78392171

@@ -1,0 +1,13 @@
+
+x
+java:S1854"5Remove this useless assignment to local variable "n".(–ÞØ‚8±â›°¸2J$5af73fe3-5adb-4359-ad6a-e2a94a482ebe
+i
+java:S1481"&Remove this unused "n" local variable.(–ÞØ‚8³â›°¸2J$882ccdd5-7707-4328-8ba4-2dfb1dfc667e
+ƒ	java:S125	"<This block of commented-out lines of code should be removed.(æ‚»¿üÿÿÿÿ8µâ›°¸2J$a5a05893-2af9-4363-be31-927f37dd48d1
+r	java:S106"+Replace this use of System.out by a logger.(¸šñÙüÿÿÿÿ8¶â›°¸2J$b094b3b8-c008-453f-828b-a2c6496cec36
+m	java:S106"+Replace this use of System.out by a logger.(†™ñ‹8·â›°¸2J$329177e6-95d6-4964-a9be-3caa14755cf4
+m	java:S106"+Replace this use of System.out by a logger.(†™ñ‹8¸â›°¸2J$aac7c92f-c309-4e4f-82b2-65f07d3085a3
+r	java:S106!"+Replace this use of System.out by a logger.(ßí¾ùÿÿÿÿ8¹â›°¸2J$ce9961a5-8b6e-47cb-835b-07ea9a80f93f
+r	java:S106#"+Replace this use of System.out by a logger.(¸šñÙüÿÿÿÿ8õ‹ž°¸2J$5932465d-fcdc-4dfa-ab60-5d47bf1b13a7
+z
+java:S1128"2Remove this unused import 'java.net.SocketOption'.(ÊŸ†ßøÿÿÿÿ8ºâ›°¸2J$cfa2f80a-fde4-48e5-956a-b44e59db13bd

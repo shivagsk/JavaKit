@@ -1,0 +1,11 @@
+
+
+java:S1155
+">Use isEmpty() to check whether the collection is empty or not.(ÐÍÀª8¿·ü«¸2J$51a2af5c-6b01-44f3-91b0-d2a616645f22
+ƒ	java:S125"<This block of commented-out lines of code should be removed.(ìíÛ²ýÿÿÿÿ8¬×ö«¸2J$328b2fc3-50e3-465c-ad13-80c1540cfbce
+ƒ	java:S125"<This block of commented-out lines of code should be removed.(ä€ýÎþÿÿÿÿ8®×ö«¸2J$082b1436-4fce-44cc-8b7f-53e85efca023
+r
+java:S1197"*Move the array designators [] to the type.(¡þÏÖøÿÿÿÿ8°×ö«¸2J$2f2e3ef5-396b-46dd-b4e3-aab7ddf93d95
+~	java:S125"<This block of commented-out lines of code should be removed.(Ÿúï½8°×ö«¸2J$c9f66e14-8ee9-494a-abb2-60dae0401ca6
+m	java:S106!"+Replace this use of System.out by a logger.(÷¹§µ8²×ö«¸2J$514b4393-ba0b-45a8-8201-a188d0461593
+ƒ	java:S125 "<This block of commented-out lines of code should be removed.(ü–Ê¾úÿÿÿÿ8•ø«¸2J$cd3818e5-7d6b-4194-9e85-a79c8347e160

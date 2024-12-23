@@ -1,0 +1,8 @@
+
+r	java:S106"+Replace this use of System.out by a logger.(ÏåÑüÿÿÿÿ8ï€ßì¹2J$2ff053ab-a57c-4782-9f49-5152729eef8b
+r	java:S106"+Replace this use of System.out by a logger.(ú×ü£ûÿÿÿÿ8ð€ßì¹2J$e5f9d466-acd1-4919-838b-4541d9e2a253
+m	java:S106"+Replace this use of System.out by a logger.(èâ‰ƒ8ò€ßì¹2J$fe2c0eb7-6ce5-4e61-aca6-741f6512c7e2
+
+java:S1155">Use isEmpty() to check whether the collection is empty or not.(èâ‰ƒ8ô€ßì¹2J$3544cf93-777f-4ce1-8b0d-420ec8b9da9a
+•
+java:S6204"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(èâ‰ƒ8õ€ßì¹2J$6ce43e19-d8e7-421f-aa3c-6d7e84adf90f

@@ -1,0 +1,14 @@
+
+Š
+java:S2259*"BA "NullPointerException" could be thrown; "slow" is nullable here.(´¬¼¦øÿÿÿÿ8óìŠ¾2J$955ccaa4-90e7-476c-bb92-f9bdd7f38719
+…
+java:S2259 "BA "NullPointerException" could be thrown; "temp" is nullable here.(ò¶°±8óìŠ¾2J$19108a21-6c16-4892-bb13-58ffda61b0e6
+l	java:S106"+Replace this use of System.out by a logger.(š¡ÿR8÷ìŠ¾2J$7a43c9c1-1cd9-4cf2-aba7-d2a532f6e980
+m	java:S106 "+Replace this use of System.out by a logger.(ò¶°±8øìŠ¾2J$0cdd0797-5548-4a07-8cfa-a5c290fe8a61
+r	java:S106*"+Replace this use of System.out by a logger.(´¬¼¦øÿÿÿÿ8øìŠ¾2J$9d117d36-7cac-4d88-aa3a-6f93602af4bd
+‰
+java:S1659."ADeclare "curr" and all following declarations on a separate line.(¬ÇÔéüÿÿÿÿ8úìŠ¾2J$c799fad6-e8ca-4a1b-835d-f1068b12a498
+r	java:S106P"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8ıìŠ¾2J$810b98fb-e165-4dcf-b23f-bc507aadf55e
+r	java:S106R"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8ıìŠ¾2J$262117e8-aea9-4b09-b25e-a63aca0b6043
+r	java:S106T"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8şìŠ¾2J$0d3d9a30-36a3-40ec-b242-5aa2ab8a3da4
+r	java:S106V"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8şìŠ¾2J$b2ad1df6-d43e-4d74-a064-35b27fd29313
