@@ -1,13 +1,15 @@
 
 ]
-java:S1220""Move this file to a named package.8Ä´‹¹½2J$e48d577d-2725-4400-a577-8194c870918a
+java:S1220""Move this file to a named package.8Ä´‹¹½2J$1928302d-4753-4104-8f06-d12dfc0911a7
 y
-java:S11539"1Directly append the argument of String.valueOf().(êîˆ´ùÿÿÿÿ8Å´‹¹½2J$28b82c0d-f2e4-4eb8-a0d1-93be6a372329
+java:S1153:"1Directly append the argument of String.valueOf().(êîˆ´ùÿÿÿÿ8Å´‹¹½2J$a2b7b98c-abdf-4eec-a73b-e2bce68a0188
 œ
-java:S12100"YOverride "equals(Object obj)" to comply with the contract of the "compareTo(T o)" method.(ÜÙÌ©8Ë´‹¹½2J$8028732c-fcff-4816-b1d4-237ed56b9c65
-m	java:S106="+Replace this use of System.out by a logger.(÷¹§µ8Ñ´‹¹½2J$7a9db214-aaec-4692-a498-e0bee1ad761a
+java:S12101"YOverride "equals(Object obj)" to comply with the contract of the "compareTo(T o)" method.(ÜÙÌ©8Ë´‹¹½2J$59810946-80a3-492c-9da6-46f134811d9a
+m	java:S106>"+Replace this use of System.out by a logger.(÷¹§µ8Ñ´‹¹½2J$2f1989e8-ba81-458a-978b-bb6879ec07bc
 ›
-java:S1602?"SRemove useless curly braces around statement and then remove useless return keyword(Î±À‘ÿÿÿÿÿ8Ò´‹¹½2J$9e0561e5-ee8c-4584-92af-58f5e1348293
-r	java:S106B"+Replace this use of System.out by a logger.(£ýíÌþÿÿÿÿ8Ò´‹¹½2J$48b866c3-4a7b-4b38-a68e-d9c80051208c
+java:S1602@"SRemove useless curly braces around statement and then remove useless return keyword(Î±À‘ÿÿÿÿÿ8Ò´‹¹½2J$80e5eef4-424b-4114-9242-4f8e207ee6a9
+r	java:S106C"+Replace this use of System.out by a logger.(£ýíÌþÿÿÿÿ8Ò´‹¹½2J$24860361-94ee-48f3-aaab-c5029bce97ed
+t
+java:S1128"1Remove this unused import 'java.util.Comparator'.(î¹ó¹8š†´³À2J$746addbd-15b2-46c5-b2c8-2c036e5a43ee
 €
-java:S1128"8Remove this unused import 'java.util.stream.Collectors'.(Óóº´úÿÿÿÿ8À²’¹½2J$d1aad175-79cf-40c1-93dc-372a78392171
+java:S1128"8Remove this unused import 'java.util.stream.Collectors'.(Óóº´úÿÿÿÿ8š†´³À2J$c2a32ec4-72e3-4f8e-8b15-d0e02e860e80

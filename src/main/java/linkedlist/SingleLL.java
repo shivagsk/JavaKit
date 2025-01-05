@@ -3,6 +3,9 @@ package linkedlist;
 class Node {
     int data;
     Node next;
+    Node(int data) {
+        this.data = data;
+    }
     public Node(int data, Node next) {
         this.data = data;
         this.next = next;
@@ -70,11 +73,71 @@ public class SingleLL {
 
         printSingleLL(temp);
     }
+
+    public static void deleteMiddleEle(Node head) {
+        if(head == null)
+            return;
+        Node slow = head, fast = head, prev = null;
+        while(fast != null && fast.next != null) {
+            prev = slow;
+            slow = slow.next;
+            fast = fast.next.next;
+        }
+        System.out.println("slow Next" + slow.next + " fast node " + fast);
+        prev.next = slow.next;
+        slow.next = null;
+        printSingleLL(head);
+    }
+
+    public static void insertAtPosition(Node head,  int pos, int ele) {
+        Node temp = new Node(ele); // 1->2->3->4->null
+        int itr = 1;
+        Node temp1 = head;
+        while(itr<pos-1) {
+            temp1 = temp1.next;
+            itr+=1;
+        }
+        temp.next = temp1.next;
+        temp1.next = temp;
+        System.out.println("After Insertion");
+        printSingleLL(head);
+    }
+
+    public static void removeKthEleFromLast(Node head, int k) {
+        int len = lengthOfList(head, 0);
+        int pos = len - k+1;
+        int l =1;
+
+        Node temp = head;
+        while(l<pos-1) {
+            temp = temp.next;
+            l+=1;
+        }
+        Node kk = temp.next;
+        temp.next = temp.next.next;
+        kk.next = null;
+        System.out.println("After Removing from last");
+        printSingleLL(head);
+        System.out.println();
+    }
     public static void main(String[] args) {
         Node head = new Node(1, null);
         head.next = new Node(2, null);
         head.next.next = new Node(3, null);
-        head.next.next.next = new Node(4, null);
+        //head.next.next.next = new Node(4, null);
+
+        Node l1 = new Node(11, null);
+        l1.next = new Node(12, null);
+        l1.next.next = new Node(13, null);
+
+        int ele =15;
+        insertAtPosition(l1, 2, ele);
+        System.out.println();
+        removeKthEleFromLast(l1, 4);
+
+        printSingleLL(l1);
+        System.out.println();
+
 
         printSingleLL(head);
         System.out.println();
@@ -89,5 +152,14 @@ public class SingleLL {
         node.next.next = new Node(3, null);
         node.next.next.next = new Node(4, null);
         rotateByK(node, 3);
+        System.out.println();
+        Node node1 = new Node(1, null);
+        node1.next = new Node(2, null);
+        node1.next.next = new Node(3, null);
+        node1.next.next.next = new Node(4, null);
+        deleteMiddleEle(node1);
+
     }
+
+
 }

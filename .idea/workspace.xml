@@ -5,33 +5,30 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c18b634a-5e47-4405-b162-5355ec4dbb47" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Collections/PlayAround.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ComparableComparator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DesignPatterns/SingletonPattern.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/linkedlist/SingleLL.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/multiThreading/EvenOddProb.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/recursion/BasicRec.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/recursion/MaxAndMin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/recursion/TriangleSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/recursion/patterns/InvertedRightTriangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/recursion/patterns/RightTriangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/recursion/searching/BinarySearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/recursion/searching/LinearSearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/recursion/sorting/BubbleSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/recursion/sorting/SelectionSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sortings/BubbleSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sortings/InsertionSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sortings/SelectionSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/streams/BasicPractise.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Collections/ImmutableClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DesignPatterns/Builder/PhoneBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DesignPatterns/DesignPatterns.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DesignPatterns/Phone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Graphs/bfs/DisconnectedGraphBfs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Graphs/bfs/GraphsCreation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Graphs/bfs/LevelOfGivenNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/linkedlist/DoubleLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/linkedlist/SingleLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/multiThreading/Manipulations.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/d/0d2a93796a52741f587d4ae127479f002d74bd58" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/d/0d2a93796a52741f587d4ae127479f002d74bd58" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/4/441d9f4a19ccf8b74bb997542de962354f89fd29" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/e/8e1c843f93efc7fac18a7482827a075ea8e6fb62" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/e/8e1c843f93efc7fac18a7482827a075ea8e6fb62" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/1/a186449dc764e195b1a25906114730b9237c7cbc" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/1/a186449dc764e195b1a25906114730b9237c7cbc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/6/f69434e8eddd6d2f1e79a72e1ea17ab8187c9605" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/6/f69434e8eddd6d2f1e79a72e1ea17ab8187c9605" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/4/4/441d9f4a19ccf8b74bb997542de962354f89fd29" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Collections/PlayAround.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Collections/PlayAround.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ComparableComparator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ComparableComparator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/DesignPatterns/SingletonPattern.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DesignPatterns/Singleton.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/linkedlist/SingleLL.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/linkedlist/SingleLL.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/multiThreading/EvenOddProb.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/multiThreading/EvenOddProb.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,13 +72,13 @@
       <recent name="C:\MyProject\DataStructureAlgorithms\src\main\java" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.BasicPractise">
-    <configuration name="BasicPractise" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="streams.BasicPractise" />
+  <component name="RunManager" selected="Application.DoubleLinkedList">
+    <configuration name="DesignPatterns" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DesignPatterns.DesignPatterns" />
       <module name="DataStructureAlgorithms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="streams.*" />
+          <option name="PATTERN" value="DesignPatterns.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -89,12 +86,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BubbleSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sortings.BubbleSort" />
+    <configuration name="DoubleLinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="linkedlist.DoubleLinkedList" />
       <module name="DataStructureAlgorithms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="sortings.*" />
+          <option name="PATTERN" value="linkedlist.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,12 +112,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="InsertionSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sortings.InsertionSort" />
+    <configuration name="MiddleOfLinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="linkedlist.MiddleOfLinkedList" />
       <module name="DataStructureAlgorithms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="sortings.*" />
+          <option name="PATTERN" value="linkedlist.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -128,12 +125,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SelectionSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sortings.SelectionSort" />
+    <configuration name="SingleLL" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="linkedlist.SingleLL" />
       <module name="DataStructureAlgorithms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="sortings.*" />
+          <option name="PATTERN" value="linkedlist.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -143,11 +140,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.BasicPractise" />
+        <item itemvalue="Application.DoubleLinkedList" />
+        <item itemvalue="Application.MiddleOfLinkedList" />
+        <item itemvalue="Application.SingleLL" />
         <item itemvalue="Application.EvenOddProb" />
-        <item itemvalue="Application.BubbleSort" />
-        <item itemvalue="Application.SelectionSort" />
-        <item itemvalue="Application.InsertionSort" />
+        <item itemvalue="Application.DesignPatterns" />
       </list>
     </recent_temporary>
   </component>
@@ -218,33 +215,8 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/linkedlist/SingleLL.java</url>
-          <line>73</line>
-          <option name="timeStamp" value="20" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/linkedlist/SingleLL.java</url>
-          <line>60</line>
+          <line>63</line>
           <option name="timeStamp" value="21" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/linkedlist/SingleLL.java</url>
-          <line>62</line>
-          <option name="timeStamp" value="22" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/linkedlist/SingleLL.java</url>
-          <line>66</line>
-          <option name="timeStamp" value="24" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/linkedlist/SingleLL.java</url>
-          <line>90</line>
-          <option name="timeStamp" value="25" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/linkedlist/SingleLL.java</url>
-          <line>84</line>
-          <option name="timeStamp" value="26" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/sortings/InsertionSort.java</url>
@@ -255,6 +227,21 @@
           <url>file://$PROJECT_DIR$/src/main/java/sortings/InsertionSort.java</url>
           <line>19</line>
           <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/linkedlist/SingleLL.java</url>
+          <line>79</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/linkedlist/SingleLL.java</url>
+          <line>159</line>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/multiThreading/EvenOddProb.java</url>
+          <line>90</line>
+          <option name="timeStamp" value="31" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
