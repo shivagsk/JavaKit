@@ -4,31 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c18b634a-5e47-4405-b162-5355ec4dbb47" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Collections/ImmutableClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DesignPatterns/Builder/PhoneBuilder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DesignPatterns/DesignPatterns.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DesignPatterns/Phone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Graphs/bfs/DisconnectedGraphBfs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Graphs/bfs/GraphsCreation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Graphs/bfs/LevelOfGivenNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/linkedlist/DoubleLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/linkedlist/SingleLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/multiThreading/Manipulations.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/d/0d2a93796a52741f587d4ae127479f002d74bd58" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/d/0d2a93796a52741f587d4ae127479f002d74bd58" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/4/441d9f4a19ccf8b74bb997542de962354f89fd29" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/e/8e1c843f93efc7fac18a7482827a075ea8e6fb62" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/e/8e1c843f93efc7fac18a7482827a075ea8e6fb62" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/1/a186449dc764e195b1a25906114730b9237c7cbc" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/1/a186449dc764e195b1a25906114730b9237c7cbc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/6/f69434e8eddd6d2f1e79a72e1ea17ab8187c9605" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/6/f69434e8eddd6d2f1e79a72e1ea17ab8187c9605" afterDir="false" />
+    <list default="true" id="c18b634a-5e47-4405-b162-5355ec4dbb47" name="Changes" comment="New Codes added">
+      <change afterPath="$PROJECT_DIR$/src/main/java/searching/BinarySearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/searching/LinearSearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sortings/BubbleSortIterative.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sortings/InsertionSortiterative.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sortings/SelectionSortIterative.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/4/4/441d9f4a19ccf8b74bb997542de962354f89fd29" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Collections/PlayAround.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Collections/PlayAround.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ComparableComparator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ComparableComparator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/DesignPatterns/SingletonPattern.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DesignPatterns/Singleton.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/linkedlist/SingleLL.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/linkedlist/SingleLL.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/multiThreading/EvenOddProb.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/multiThreading/EvenOddProb.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,24 +45,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SONARLINT_PRECOMMIT_ANALYSIS": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\MyProject\DataStructureAlgorithms\src\main\java" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.DoubleLinkedList">
-    <configuration name="DesignPatterns" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DesignPatterns.DesignPatterns" />
+  <component name="RunManager" selected="Application.BinarySearch">
+    <configuration name="BinarySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="searching.BinarySearch" />
       <module name="DataStructureAlgorithms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="DesignPatterns.*" />
+          <option name="PATTERN" value="searching.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -86,12 +71,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DoubleLinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="linkedlist.DoubleLinkedList" />
+    <configuration name="BubbleSortIterative" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sortings.BubbleSortIterative" />
       <module name="DataStructureAlgorithms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="linkedlist.*" />
+          <option name="PATTERN" value="sortings.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -99,12 +84,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EvenOddProb" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="multiThreading.EvenOddProb" />
+    <configuration name="InsertionSortiterative" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sortings.InsertionSortiterative" />
       <module name="DataStructureAlgorithms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="multiThreading.*" />
+          <option name="PATTERN" value="sortings.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -112,12 +97,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MiddleOfLinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="linkedlist.MiddleOfLinkedList" />
+    <configuration name="LinearSearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="searching.LinearSearch" />
       <module name="DataStructureAlgorithms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="linkedlist.*" />
+          <option name="PATTERN" value="searching.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -125,12 +110,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SingleLL" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="linkedlist.SingleLL" />
+    <configuration name="SelectionSortIterative" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sortings.SelectionSortIterative" />
       <module name="DataStructureAlgorithms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="linkedlist.*" />
+          <option name="PATTERN" value="sortings.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -140,11 +125,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.DoubleLinkedList" />
-        <item itemvalue="Application.MiddleOfLinkedList" />
-        <item itemvalue="Application.SingleLL" />
-        <item itemvalue="Application.EvenOddProb" />
-        <item itemvalue="Application.DesignPatterns" />
+        <item itemvalue="Application.BinarySearch" />
+        <item itemvalue="Application.InsertionSortiterative" />
+        <item itemvalue="Application.SelectionSortIterative" />
+        <item itemvalue="Application.BubbleSortIterative" />
+        <item itemvalue="Application.LinearSearch" />
       </list>
     </recent_temporary>
   </component>
@@ -157,6 +142,14 @@
       <option name="presentableId" value="Default" />
       <updated>1732881482694</updated>
     </task>
+    <task id="LOCAL-00001" summary="New Codes added">
+      <created>1736064028803</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1736064028803</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -169,6 +162,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="New Codes added" />
+    <option name="LAST_COMMIT_MESSAGE" value="New Codes added" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

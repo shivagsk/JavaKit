@@ -59,3 +59,13 @@ f
 .src/main/java/linkedlist/SingleLinkedList.java,a\7\a72d6470964d18c14656b23ca6443dbb36020726
 ^
 .src/main/java/linkedlist/DoubleLinkedList.java,9\9\996fce7128bb123fc1759d73222c551781642e89
+Y
+)src/main/java/searching/LinearSearch.java,1\4\146570934e6367f6720f9c9e3ce3cd8535e43379
+Y
+)src/main/java/searching/BinarySearch.java,0\0\00b3a1adcae73ceeae7aa4451620e525b5ac33fa
+_
+/src/main/java/sortings/BubbleSortIterative.java,8\2\824b75d3b6a486e3e2e1bc48586ca4b7001d9ef7
+b
+2src/main/java/sortings/SelectionSortIterative.java,a\0\a06d42dcbe632c4ef6572b3f160b556afb5f18fa
+b
+2src/main/java/sortings/InsertionSortiterative.java,0\9\09582c606025d6c431fe619765a9e9e32dadbfd1
