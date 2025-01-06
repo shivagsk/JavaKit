@@ -69,3 +69,9 @@ b
 2src/main/java/sortings/SelectionSortIterative.java,a\0\a06d42dcbe632c4ef6572b3f160b556afb5f18fa
 b
 2src/main/java/sortings/InsertionSortiterative.java,0\9\09582c606025d6c431fe619765a9e9e32dadbfd1
+U
+%src/main/java/sortings/MergeSort.java,8\f\8f04ad517aaded0ebe8f009dff3c493357eca29d
+U
+%src/main/java/sortings/QuickSort.java,9\3\9300a90fa30d6cfa00655e81bd668471bfdf4039
+b
+2src/main/java/sortings/InsertionSortIterative.java,3\8\3802aa149e55ba7e9fddfbd9f2421c4c822db0af

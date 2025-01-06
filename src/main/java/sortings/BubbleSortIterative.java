@@ -17,10 +17,6 @@ public class BubbleSortIterative {
             }
             if(flag) break;
         }
-//        System.out.println(arr);
-//        for(int x: arr) {
-//            System.out.print(x + " ");
-//        }
     }
     public static void main(String[] args) {
         int[] arr = new int[]{3,21,56,32,8,56,1,11};

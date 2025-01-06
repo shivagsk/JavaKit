@@ -1,6 +1,6 @@
 package sortings;
 
-public class InsertionSortiterative {
+public class InsertionSortIterative {
 
     public static void insertion(int[] arr) {
         int n = arr.length;
