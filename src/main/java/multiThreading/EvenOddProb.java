@@ -1,9 +1,6 @@
 package multiThreading;
 
 import java.io.Serializable;
-import java.lang.ref.WeakReference;
-import java.util.Collections;
-import java.util.concurrent.CompletableFuture;
 
 class EvenOdd  implements Serializable {
     public volatile int count = 0;

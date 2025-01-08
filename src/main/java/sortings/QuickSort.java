@@ -1,5 +1,7 @@
 package sortings;
 
+import java.util.Map;
+
 public class QuickSort {
     public static void swap(int[] arr, int i, int j) {
         if (i!=j) {
@@ -30,6 +32,7 @@ public class QuickSort {
         }
     }
     public static void main(String[] args) {
+
         int[] arr = new int[]{4,3,2,1,1,2,3,5};
         quickSort(arr, 0, arr.length-1);
         for(int x : arr) {

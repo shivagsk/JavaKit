@@ -53,8 +53,6 @@ W
 'src/main/java/DesignPatterns/Phone.java,2\5\25e59ea79fe0873222f0e44b025819386c40c181
 f
 6src/main/java/DesignPatterns/Builder/PhoneBuilder.java,6\3\639855aa5dcd1397a2ed1018a348af35ac4d78be
-`
-0src/main/java/linkedlist/MiddleOfLinkedList.java,f\8\f8993ecfdd367eb3183a4c78f42d795083cd0e0c
 ^
 .src/main/java/linkedlist/SingleLinkedList.java,a\7\a72d6470964d18c14656b23ca6443dbb36020726
 ^
@@ -75,3 +73,5 @@ U
 %src/main/java/sortings/QuickSort.java,9\3\9300a90fa30d6cfa00655e81bd668471bfdf4039
 b
 2src/main/java/sortings/InsertionSortIterative.java,3\8\3802aa149e55ba7e9fddfbd9f2421c4c822db0af
+e
+5src/main/java/OperatingSystems/LeastRecentlyUsed.java,7\7\7782b5f9ac3bfa189b386da5686027f44b7af9ef
