@@ -1,5 +1,11 @@
 
-m	java:S106"+Replace this use of System.out by a logger.(Ì•¿°8†Ô‰Æ¾2J$ac31b40c-8193-4fb7-a267-bcae82348f56
-m	java:S106"+Replace this use of System.out by a logger.(Ì•¿°8‡Ô‰Æ¾2J$e20da591-62ba-4899-b89b-f9bf8d8ae027
-r	java:S106"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8ˆÔ‰Æ¾2J$3a3fc6c6-edc4-4776-8ee0-1d02a4fb1eba
-m	java:S106"+Replace this use of System.out by a logger.(¸‘²8¢ŞÆ¾2J$41231217-8b7b-4f3f-b7dd-3b0b7bda7c3c
+m	java:S106"+Replace this use of System.out by a logger.(Ì•¿°8î÷ëîÒ2J$e2ada06c-4ca1-4426-a3de-a8100b9e2490
+m	java:S106"+Replace this use of System.out by a logger.(Ì•¿°8ï÷ëîÒ2J$e39545ea-964d-4769-8c02-6e29a2c30bbe
+m	java:S106$"+Replace this use of System.out by a logger.(·Š·£8éîîÒ2J$0ec65ced-cac9-4091-a53d-c04eb92e4a8d
+~	java:S125&"<This block of commented-out lines of code should be removed.(ÆšŸš8ò÷ëîÒ2J$5b1fbe8e-12b3-44b2-ab95-c30ce974790b
+u
+java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ8ó÷ëîÒ2J$550be576-0069-4329-9d1c-122f64c3309e
+s
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8ó÷ëîÒ2J$bce20826-4d1c-4b74-9688-f9627ed82b17
+y
+java:S1128"7Remove this unused import 'java.util.Collections.swap'.(¼õõ8ó÷ëîÒ2J$a7ea0434-8ee6-4b31-820a-a75b58ba85d7

@@ -1,6 +1,7 @@
 package Collections;
 
 import java.util.Arrays;
+import java.util.Collections;
 
 final class ImmutablePerson {
     private final String name;          // Immutable field
@@ -13,7 +14,8 @@ final class ImmutablePerson {
         this.age = age;
         //this.scores = scores;
         // Deep copy of the scores array
-        this.scores = scores != null ? Arrays.copyOf(scores, scores.length) : null;
+
+        this.scores = scores;// != null ? Arrays.copyOf(scores, scores.length) : null;
     }
 
     // Getter for name (String is immutable, safe to return as-is)

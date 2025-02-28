@@ -7,12 +7,13 @@ import java.util.Comparator;
 import java.util.List;
 import java.util.Set;
 import java.util.stream.Collectors;
+import java.util.stream.Stream;
 
 public class BasicPractise {
 
     public static void main(String[] args) {
         List<Integer> list = Arrays.asList(5,8,5,3,4,8,99,23,453,675);
-
+        Stream.of("shiva", null).toList();
         System.out.println(list.stream().
                 sorted().
                 skip(1).
@@ -61,7 +62,7 @@ public class BasicPractise {
         String[] names = {"shiva", "aabc", "agd", "udu", "strength"};
 
         System.out.println("Count of strings starting with A -> " + Arrays.asList(names).stream()
-                .filter(x -> x.startsWith("st")).count());
+                .filter(x -> x.startsWith("st")).distinct().count());
 
     }
 }

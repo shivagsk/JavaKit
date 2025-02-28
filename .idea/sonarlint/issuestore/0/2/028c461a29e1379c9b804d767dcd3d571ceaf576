@@ -1,8 +1,8 @@
 
 d
-java:S1659"!Declare "end" on a separate line.(ú çÝ8ÛÑöÿ¹2J$8d000b17-10b2-4a82-a870-f201e4b72bc5
-r	java:S106"+Replace this use of System.out by a logger.(´ÎÖ÷ýÿÿÿÿ8ÝÑöÿ¹2J$ee25bfcd-231f-4c70-b860-8ec6758d9944
-m	java:S106"+Replace this use of System.out by a logger.(†Û‘§8ÝÑöÿ¹2J$5954bff8-7d8b-4138-991e-6b0f2e8f75f5
-m	java:S106!"+Replace this use of System.out by a logger.(ï´„¿8ÞÑöÿ¹2J$4e8cd37c-440e-43b8-85a5-0a6976b004de
-r	java:S106""+Replace this use of System.out by a logger.(öü¹ÿýÿÿÿÿ8ÞÑöÿ¹2J$cab32b1f-3977-40f7-9d08-39141942c5b3
-•	java:S100/"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŸÄÂµþÿÿÿÿ8áÑöÿ¹2J$13dd3470-0dc2-4857-a4db-8ff0e8e03c7d
+java:S1659"!Declare "end" on a separate line.(ú çÝ8ÛÑöÿ¹2J$de307348-fee8-4190-9182-c1fb3af216f2
+r	java:S106"+Replace this use of System.out by a logger.(´ÎÖ÷ýÿÿÿÿ8ÝÑöÿ¹2J$9e80824a-8bb3-4a01-a56f-e6627790842c
+m	java:S106"+Replace this use of System.out by a logger.(†Û‘§8ÝÑöÿ¹2J$8305a3a6-f861-40c8-8d00-f470fd3d42a9
+m	java:S106!"+Replace this use of System.out by a logger.(ï´„¿8ÞÑöÿ¹2J$e755753e-93e9-4d8c-81fd-adc8218cba3b
+r	java:S106""+Replace this use of System.out by a logger.(öü¹ÿýÿÿÿÿ8ÞÑöÿ¹2J$db1c486e-5bd8-4f45-bba1-fd92818c3aae
+•	java:S100/"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŸÄÂµþÿÿÿÿ8áÑöÿ¹2J$736ab807-e6e0-4617-9f0b-6149d27dfb31

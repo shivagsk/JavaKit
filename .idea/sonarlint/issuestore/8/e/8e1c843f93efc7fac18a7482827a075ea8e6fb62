@@ -1,26 +1,28 @@
 
 y
-java:S1153"1Directly append the argument of String.valueOf().(¢–°ºÿÿÿÿÿ8Ášù±Á2J$fbc0bd51-3eaa-4b28-9bce-9a3b78cbee65
-¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(†‹ŠÖþÿÿÿÿ8Ãšù±Á2J$5dc8c219-7aa5-4912-b166-27aa7092522c
+java:S1153"1Directly append the argument of String.valueOf().(¢–°ºÿÿÿÿÿ8°â‹¤Ç2J$d57c9114-6786-431b-b7e8-76042b3ee171
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(†‹ŠÖþÿÿÿÿ8³â‹¤Ç2J$bda88cfa-8bdb-4aaf-bb3b-fae76cd444b9
 }
-java:S1854"5Remove this useless assignment to local variable "n".(˜õª»ÿÿÿÿÿ8Íšù±Á2J$1a3d58d7-739b-446f-923f-010b88963890
+java:S1854"5Remove this useless assignment to local variable "n".(˜õª»ÿÿÿÿÿ8¾â‹¤Ç2J$36a79632-656c-4316-9f1d-2aa8fa763dc9
 †
-java:S4143("DVerify this is the key that was intended; it was already set before.(‘´£v8Îšù±Á2J$780e37fb-89bd-4bbd-b7e7-aee116977e1d
+java:S4143)"DVerify this is the key that was intended; it was already set before.(‘´£v8Àâ‹¤Ç2J$6132e633-17de-4d21-b88e-8ebe392ec565
 n
-java:S1481"&Remove this unused "n" local variable.(˜õª»ÿÿÿÿÿ8Ðšù±Á2J$aeaa8f6f-9a37-43e3-a33d-324a64400d3c
+java:S1481"&Remove this unused "n" local variable.(˜õª»ÿÿÿÿÿ8Àâ‹¤Ç2J$3df54457-fd5f-4bd2-a3d9-f4ad90ad2e23
 w
-java:S1611"/Remove the parentheses around the "x" parameter(¢–°ºÿÿÿÿÿ8Ýšù±Á2J$31c09820-f6c0-4432-b79b-9868834a0ad1
-m	java:S106"+Replace this use of System.out by a logger.(É„†ú8ßšù±Á2J$21b480d0-f9d6-4e27-a7bb-d504eb6cc933
-r	java:S106"+Replace this use of System.out by a logger.(µÏ…èùÿÿÿÿ8àšù±Á2J$9d4d492e-1f2a-4a4e-af5f-21df3a5c373c
+java:S1611"/Remove the parentheses around the "x" parameter(¢–°ºÿÿÿÿÿ8Áâ‹¤Ç2J$3ca4bdcf-3c13-4b29-89ca-402ff2971aad
+m	java:S106"+Replace this use of System.out by a logger.(É„†ú8Ââ‹¤Ç2J$f50c33a3-ee5d-4c28-9c1d-0944c3e7bb83
+r	java:S106"+Replace this use of System.out by a logger.(µÏ…èùÿÿÿÿ8Ââ‹¤Ç2J$8fefe53c-7fcc-4c76-8319-086e1a51766f
 {
-java:S3878"8Remove this array creation and simply pass the elements.(¥òÐà8âšù±Á2J$a4626811-0edc-4e0a-b8c3-66936ce663c1
+java:S3878"8Remove this array creation and simply pass the elements.(¥òÐà8Äâ‹¤Ç2J$ecf87be0-694b-44b1-9643-30b5302f11ad
 w
-java:S1611"/Remove the parentheses around the "x" parameter(ÕÕƒáÿÿÿÿÿ8âšù±Á2J$292b7e7a-0d07-47f6-b6bb-f2b771118e0a
+java:S1611"/Remove the parentheses around the "x" parameter(ÕÕƒáÿÿÿÿÿ8Äâ‹¤Ç2J$a471fe08-03ab-41a6-ba27-90dc1e694aba
 |
-java:S1612"4Replace this lambda with method reference 'pq::add'.(ÕÕƒáÿÿÿÿÿ8ãšù±Á2J$e14a77dd-de96-4e31-ae4b-6f494a60e75d
-~	java:S125"<This block of commented-out lines of code should be removed.(âÅ­8åšù±Á2J$3fc88bef-ff8d-4600-9461-aef16689969b
-m	java:S106$"+Replace this use of System.out by a logger.(¿“•¿8åšù±Á2J$ff0b0391-78fe-421b-8e57-6c3ad7d6335a
-m	java:S106+"+Replace this use of System.out by a logger.(µˆœÑ8æšù±Á2J$c6e27943-9cc2-44a1-ba86-cf963c1b233e
-ƒ	java:S125*"<This block of commented-out lines of code should be removed.(„é¶´øÿÿÿÿ8°¹þ±Á2J$c3acd389-cd8e-4bb4-b8b8-18e7af92da4d
+java:S1612"4Replace this lambda with method reference 'pq::add'.(ÕÕƒáÿÿÿÿÿ8Åâ‹¤Ç2J$7494e917-f8de-43f8-a3c2-ed9a7bb79080
+~	java:S125 "<This block of commented-out lines of code should be removed.(âÅ­8Æâ‹¤Ç2J$0bb0bfea-031d-4646-95ad-2d74a598d6f5
+m	java:S106%"+Replace this use of System.out by a logger.(¿“•¿8Æâ‹¤Ç2J$df665f1a-e6b7-4042-b1c9-eaad1c3515ec
+m	java:S106,"+Replace this use of System.out by a logger.(µˆœÑ8Çâ‹¤Ç2J$5311a68a-f92c-4176-ac30-d24293393e28
+ƒ	java:S125+"<This block of commented-out lines of code should be removed.(„é¶´øÿÿÿÿ8Çâ‹¤Ç2J$345af4b0-e37f-4449-b635-17db7f40caab
+|
+java:S1128"4Remove this unused import 'java.util.LinkedHashMap'.(ò†ŠÞùÿÿÿÿ8Èâ‹¤Ç2J$150757f5-bd4f-464b-a3ff-bb7e96456a6e
 u
-java:S1128"-Remove this unused import 'java.util.Random'.(èøÉ›ùÿÿÿÿ8Õžþ±Á2J$7794eedc-0a35-4743-b1ea-7c67a6ef493a
+java:S1128"-Remove this unused import 'java.util.Random'.(èøÉ›ùÿÿÿÿ8Èâ‹¤Ç2J$e9427a96-ddf7-49e2-9821-7eb81c3baa17

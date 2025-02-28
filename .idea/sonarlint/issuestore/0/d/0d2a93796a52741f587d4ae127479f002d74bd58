@@ -1,15 +1,17 @@
 
 ]
-java:S1220""Move this file to a named package.8Ä´‹¹½2J$1928302d-4753-4104-8f06-d12dfc0911a7
-y
-java:S1153:"1Directly append the argument of String.valueOf().(êîˆ´ùÿÿÿÿ8Å´‹¹½2J$a2b7b98c-abdf-4eec-a73b-e2bce68a0188
-œ
-java:S12101"YOverride "equals(Object obj)" to comply with the contract of the "compareTo(T o)" method.(ÜÙÌ©8Ë´‹¹½2J$59810946-80a3-492c-9da6-46f134811d9a
-m	java:S106>"+Replace this use of System.out by a logger.(÷¹§µ8Ñ´‹¹½2J$2f1989e8-ba81-458a-978b-bb6879ec07bc
-›
-java:S1602@"SRemove useless curly braces around statement and then remove useless return keyword(Î±À‘ÿÿÿÿÿ8Ò´‹¹½2J$80e5eef4-424b-4114-9242-4f8e207ee6a9
-r	java:S106C"+Replace this use of System.out by a logger.(£ýíÌþÿÿÿÿ8Ò´‹¹½2J$24860361-94ee-48f3-aaab-c5029bce97ed
+java:S1220""Move this file to a named package.8Ö³Ã¢Ç2J$8778f175-8990-4c32-a86e-770d25b64317
+r	java:S106Q"+Replace this use of System.out by a logger.(‘²æöùÿÿÿÿ8ç³Ã¢Ç2J$ba727fa6-a2fc-491c-9766-329659d82da4
+r	java:S106R"+Replace this use of System.out by a logger.(ãûÿíûÿÿÿÿ8ç³Ã¢Ç2J$ba2c58d3-1ed0-4ade-a8f5-8f5cd3efe02a
+m	java:S106S"+Replace this use of System.out by a logger.(µˆœÑ8ç³Ã¢Ç2J$b327218b-f9b6-4da8-9230-5ec629b6d28d
+ƒ	java:S125Y"<This block of commented-out lines of code should be removed.(é­Óðøÿÿÿÿ8è³Ã¢Ç2J$7138858b-9e24-453a-a816-6d90457ebabc
+s
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8ÈòÃ¢Ç2J$08d52c2e-1e79-4175-9324-a992034757f9
+z
+java:S1128"2Remove this unused import 'java.util.Collections'.(¢³ïÓþÿÿÿÿ8ÈòÃ¢Ç2J$c0d250ef-d3e5-4d34-afca-9aa71f1e0c37
 t
-java:S1128"1Remove this unused import 'java.util.Comparator'.(î¹ó¹8š†´³À2J$746addbd-15b2-46c5-b2c8-2c036e5a43ee
+java:S1128"1Remove this unused import 'java.util.Comparator'.(î¹ó¹8ÈòÃ¢Ç2J$7220c12c-df2b-446d-b856-d9a74d962679
+s
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8ÈòÃ¢Ç2J$0cd8b3ac-893e-442d-857a-5c7dd4137747
 €
-java:S1128"8Remove this unused import 'java.util.stream.Collectors'.(Óóº´úÿÿÿÿ8š†´³À2J$c2a32ec4-72e3-4f8e-8b15-d0e02e860e80
+java:S1128"8Remove this unused import 'java.util.stream.Collectors'.(Óóº´úÿÿÿÿ8ÈòÃ¢Ç2J$59ffe4f3-c794-40a7-9e86-e423ad215205

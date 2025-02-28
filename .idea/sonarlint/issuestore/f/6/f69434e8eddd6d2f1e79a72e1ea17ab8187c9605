@@ -1,14 +1,14 @@
 
+…
+java:S2259q"BA "NullPointerException" could be thrown; "temp" is nullable here.(¬½Ş“8©¬—áÁ2J$f1aec989-fb90-491d-8b8f-b4b1376ff8f5
+Š
+java:S2259t"BA "NullPointerException" could be thrown; "temp" is nullable here.(œ¨í ùÿÿÿÿ8ª¬—áÁ2J$4ae62fb2-b438-48f8-8ed5-109e9c6a7153
+…
+java:S2259#"BA "NullPointerException" could be thrown; "temp" is nullable here.(ò¶°±8·íáÁ2J$e39b6c30-1435-43c6-9d18-da2d0c1556d1
 Š
 java:S2259-"BA "NullPointerException" could be thrown; "slow" is nullable here.(´¬¼¦øÿÿÿÿ8¶íáÁ2J$0878c74b-e832-45d9-a26a-be61be5ec1f4
 …
 java:S2259W"BA "NullPointerException" could be thrown; "prev" is nullable here.(‹§•±8·íáÁ2J$b4a669f3-cc39-4b21-9ffb-fc3cfca70dbf
-Š
-java:S2259t"BA "NullPointerException" could be thrown; "temp" is nullable here.(œ¨í ùÿÿÿÿ8ª¬—áÁ2J$4ae62fb2-b438-48f8-8ed5-109e9c6a7153
-…
-java:S2259q"BA "NullPointerException" could be thrown; "temp" is nullable here.(¬½Ş“8©¬—áÁ2J$f1aec989-fb90-491d-8b8f-b4b1376ff8f5
-…
-java:S2259#"BA "NullPointerException" could be thrown; "temp" is nullable here.(ò¶°±8·íáÁ2J$e39b6c30-1435-43c6-9d18-da2d0c1556d1
 l	java:S106"+Replace this use of System.out by a logger.(š¡ÿR8¾íáÁ2J$4cabbe93-4ad3-430c-97ae-75f98e979f47
 m	java:S106#"+Replace this use of System.out by a logger.(ò¶°±8¿íáÁ2J$3dff57e7-1966-41be-83a4-a82078d29908
 r	java:S106-"+Replace this use of System.out by a logger.(´¬¼¦øÿÿÿÿ8ÀíáÁ2J$cac07883-a70b-41f6-b8c3-26b9fb07aabe

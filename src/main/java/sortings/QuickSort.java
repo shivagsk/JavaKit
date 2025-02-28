@@ -13,6 +13,7 @@ public class QuickSort {
     public static int partition(int[] arr, int low, int high) {
         int pivot = arr[high];
 
+        // 5 4 3 2 1
         int i = low-1;
         for(int j=low; j<=high-1; j++) {
             if(arr[j] < pivot) {
@@ -33,7 +34,7 @@ public class QuickSort {
     }
     public static void main(String[] args) {
 
-        int[] arr = new int[]{4,3,2,1,1,2,3,5};
+        int[] arr = new int[]{3,2,5,1, 3};
         quickSort(arr, 0, arr.length-1);
         for(int x : arr) {
             System.out.print(x + " ");

@@ -1,34 +1,36 @@
 
-E
-java:S1604#"(Make this anonymous inner class a lambda(Û•óù8Èæº•¿2
-r
-java:S3655"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(øÓ˜˜ûÿÿÿÿ8Îæº•¿2
+k
+java:S1604$"(Make this anonymous inner class a lambda(Û•óù8‘êÂ›Ç2J$27297cfd-568e-4cb7-a592-163dba5bbf41
+˜
+java:S3655,"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(Š‹ñ“ÿÿÿÿÿ8›êÂ›Ç2J$7bac9d29-4248-4bde-ad7f-c1d77dcdc5e8
+“
+java:S3655+"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(ÂŒŒ“8šêÂ›Ç2J$36ef7651-f16e-409d-ab02-4833bb537638
+˜
+java:S3655"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(øÓ˜˜ûÿÿÿÿ8›êÂ›Ç2J$8e4ddc42-c3de-40fb-a32c-31d14c74f572
+“
+java:S36551"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(Ø‚Ó¤8›êÂ›Ç2J$743423a3-159d-4630-a760-73be92c699a5
 m
-java:S3655*"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(ÂŒŒ“8Îæº•¿2
-r
-java:S3655+"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(Š‹ñ“ÿÿÿÿÿ8Îæº•¿2
-m
-java:S36550"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(Ø‚Ó¤8Îæº•¿2
-L	java:S106"+Replace this use of System.out by a logger.(øÓ˜˜ûÿÿÿÿ8Ñæº•¿2
-W	java:S125"<This block of commented-out lines of code should be removed.(¹ò¾?8Óæº•¿2
-L	java:S106"+Replace this use of System.out by a logger.(žêýÚûÿÿÿÿ8Óæº•¿2
-]
-java:S1612"@Replace this lambda with method reference 'System.out::println'.(«Ôá³8Ôæº•¿2
-G	java:S106"+Replace this use of System.out by a logger.(«Ôá³8Ôæº•¿2
-o
-java:S6204"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(Ýùªê8Ôæº•¿2
-G	java:S106"+Replace this use of System.out by a logger.(ßÈÜß8Õæº•¿2
-G	java:S106 "+Replace this use of System.out by a logger.(æí›ð8Õæº•¿2
-G	java:S106*"+Replace this use of System.out by a logger.(ÂŒŒ“8Öæº•¿2
-u
-java:S1602+"SRemove useless curly braces around statement and then remove useless return keyword(Š‹ñ“ÿÿÿÿÿ8Öæº•¿2
-L	java:S106."+Replace this use of System.out by a logger.(à¿öÑúÿÿÿÿ8×æº•¿2
-G	java:S1060"+Replace this use of System.out by a logger.(Ø‚Ó¤8×æº•¿2
-G	java:S1061"+Replace this use of System.out by a logger.(ì–´£8×æº•¿2
-L	java:S1067"+Replace this use of System.out by a logger.(„­ß‡ýÿÿÿÿ8Øæº•¿2
-L	java:S1068"+Replace this use of System.out by a logger.(ˆô«¯øÿÿÿÿ8Øæº•¿2
-]	java:S1257"<This block of commented-out lines of code should be removed.(„­ß‡ýÿÿÿÿ8Øæº•¿2
-L	java:S1069"+Replace this use of System.out by a logger.(Þ´ Àüÿÿÿÿ8Ùæº•¿2
-L	java:S106?"+Replace this use of System.out by a logger.(¿ª®Žûÿÿÿÿ8Úæº•¿2
-S
-java:S1128"1Remove this unused import 'java.io.Serializable'.(èãîÂÿÿÿÿÿ8Ûæº•¿2
+java:S2201"*The return value of "toList" must be used.(”±–•8£êÂ›Ç2J$65ab3fd0-0b7b-4d87-8cb8-f817d58f92b5
+r	java:S106"+Replace this use of System.out by a logger.(øÓ˜˜ûÿÿÿÿ8¤êÂ›Ç2J$9e978c80-440f-43d4-93a6-e2b7f2c4c3af
+}	java:S125"<This block of commented-out lines of code should be removed.(¹ò¾?8¦êÂ›Ç2J$1370bfb1-62ae-47b1-912a-f6b4dc4dfdea
+r	java:S106"+Replace this use of System.out by a logger.(žêýÚûÿÿÿÿ8¦êÂ›Ç2J$0e659623-4c38-4d46-b3f2-23e7bb157100
+ƒ
+java:S1612"@Replace this lambda with method reference 'System.out::println'.(«Ôá³8§êÂ›Ç2J$1c98ba10-f3c9-4c16-9810-8a74ec550d87
+m	java:S106"+Replace this use of System.out by a logger.(«Ôá³8¨êÂ›Ç2J$9a6b2557-4120-484c-a557-aa2b3a5fb096
+•
+java:S6204"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(Ýùªê8¨êÂ›Ç2J$caf2dc6c-f552-4dec-a575-f8a4727302b9
+m	java:S106"+Replace this use of System.out by a logger.(ßÈÜß8©êÂ›Ç2J$8ea8b332-e061-407b-9436-33f6f1356444
+m	java:S106!"+Replace this use of System.out by a logger.(æí›ð8©êÂ›Ç2J$1aef5bdd-85c3-40a8-b558-fbae30c9a088
+m	java:S106+"+Replace this use of System.out by a logger.(ÂŒŒ“8«êÂ›Ç2J$7989a0b4-b784-4d61-a778-e662322252ae
+›
+java:S1602,"SRemove useless curly braces around statement and then remove useless return keyword(Š‹ñ“ÿÿÿÿÿ8¬êÂ›Ç2J$bfbd929c-def5-406b-9ed2-c025de3e4d41
+r	java:S106/"+Replace this use of System.out by a logger.(à¿öÑúÿÿÿÿ8¬êÂ›Ç2J$e78ffca5-4a35-44cb-b01b-fbb6481484bb
+m	java:S1061"+Replace this use of System.out by a logger.(Ø‚Ó¤8¬êÂ›Ç2J$67c1481d-56ae-47c4-b813-aa1945d04715
+m	java:S1062"+Replace this use of System.out by a logger.(ì–´£8¬êÂ›Ç2J$b55682fe-6673-4c0f-b22b-0aea2a28c33e
+r	java:S1068"+Replace this use of System.out by a logger.(„­ß‡ýÿÿÿÿ8­êÂ›Ç2J$5068cbc7-b61a-4594-b393-a33464a9dd9e
+r	java:S1069"+Replace this use of System.out by a logger.(ˆô«¯øÿÿÿÿ8­êÂ›Ç2J$0f6b224b-a136-485f-a50f-4744551259fe
+ƒ	java:S1258"<This block of commented-out lines of code should be removed.(„­ß‡ýÿÿÿÿ8­êÂ›Ç2J$4f8f412d-eb6d-4767-9d75-2f79d8037e04
+r	java:S106:"+Replace this use of System.out by a logger.(Þ´ Àüÿÿÿÿ8®êÂ›Ç2J$e1886aca-a258-4300-84ff-95f91ec7b895
+r	java:S106@"+Replace this use of System.out by a logger.(¿ª®Žûÿÿÿÿ8®êÂ›Ç2J$296ed1de-cf4a-4e25-ba80-cfb5bf5e1362
+y
+java:S1128"1Remove this unused import 'java.io.Serializable'.(èãîÂÿÿÿÿÿ8¯êÂ›Ç2J$bf4f8e04-7cf7-4e6c-8f0c-8245af874ac0
