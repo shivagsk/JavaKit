@@ -1,5 +1,30 @@
 package solid;
 
+// -- A class should have only single purpose
+
+class UserService {
+
+    public void addUser() {
+        // add logic
+    }
+
+    public void deleteuser(String id) {
+        // delete logic
+    }
+
+    public void sendNotification() {
+        // notification logic
+    }
+
+}
+
+public class SingleResponsibilityPrinciple {
+
+}
+
+/*
+package solid;
+
 // A class should have only one purpose
 class UserManager {
     public void addUser() {
@@ -36,6 +61,7 @@ public class SingleResponsibilityPrinciple {
 
 
 
+*/
 /*
 *   EmployeeService
 *       - addEmployee
@@ -54,7 +80,6 @@ public class SingleResponsibilityPrinciple {
 *   Loose coupling
 *   High Cohesion
 *
-* */
+* *//*
 
-
-
+*/

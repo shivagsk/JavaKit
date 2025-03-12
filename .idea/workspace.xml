@@ -4,58 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c18b634a-5e47-4405-b162-5355ec4dbb47" name="Changes" comment="OS LRU implementation added">
-      <change afterPath="$PROJECT_DIR$/src/main/java/ComparatorComparable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DesignPatterns/builder/BuilderPattern.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DesignPatterns/builder/Phone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DesignPatterns/builder/PhoneBuilder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DesignPatterns/factory/Android.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DesignPatterns/factory/AppleIos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DesignPatterns/factory/FactoryPattern.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DesignPatterns/factory/OperatingSys.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DesignPatterns/factory/OperatingSysImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DesignPatterns/factory/Windows.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DesignPatterns/singleton/SingletonClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DesignPatterns/singleton/SingletonPattern.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Graphs/bfs/BreadthFirstSearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/RockPaperScissor/PlayGame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/RockPaperScissor/Selection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SapientProblems.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SecondLargest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/StreamsHandsOn.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/linkedlist/Single/MergeList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/linkedlist/Single/NodeDeletion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/linkedlist/Single/NodeInsertions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/linkedlist/Single/ReverseList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/linkedlist/Single/SinglyLinkedListNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/solid/DependencyInversionPrinciple.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/solid/InterfaceSeggregationPrinciple.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/solid/LiskovSubstitutionPrinciple.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/solid/OpenClosePrinciple.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/solid/SingleResponsibilityPrinciple.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sortings/MultiplicationMatrix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sortings/StringPalindrome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/trees/BinaryTree.java" afterDir="false" />
+    <list default="true" id="c18b634a-5e47-4405-b162-5355ec4dbb47" name="Changes" comment="DSA commit">
+      <change afterPath="$PROJECT_DIR$/src/main/java/Epam.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ExampleInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SampleProject.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/d/0d2a93796a52741f587d4ae127479f002d74bd58" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/d/0d2a93796a52741f587d4ae127479f002d74bd58" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/f/1f8c99af6e88656bb06d064ee287a4737125812e" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/f/1f8c99af6e88656bb06d064ee287a4737125812e" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/e/8e1c843f93efc7fac18a7482827a075ea8e6fb62" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/e/8e1c843f93efc7fac18a7482827a075ea8e6fb62" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/3/93689f9f952a9cf173ea1dc10c5539231477d20d" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/3/93689f9f952a9cf173ea1dc10c5539231477d20d" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/1/a186449dc764e195b1a25906114730b9237c7cbc" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/1/a186449dc764e195b1a25906114730b9237c7cbc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/6/f69434e8eddd6d2f1e79a72e1ea17ab8187c9605" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/6/f69434e8eddd6d2f1e79a72e1ea17ab8187c9605" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Collections/ImmutableClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Collections/ImmutableClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Collections/PlayAround.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Collections/PlayAround.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ComparableComparator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ComparableComparator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/DesignPatterns/Builder/PhoneBuilder.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/DesignPatterns/DesignPatterns.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/DesignPatterns/Phone.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/DesignPatterns/Singleton.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/searching/BinarySearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/searching/BinarySearch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/sortings/BubbleSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sortings/BubbleSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/sortings/QuickSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sortings/QuickSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/streams/BasicPractise.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/streams/BasicPractise.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/SecondLargest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SecondLargest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/solid/SingleResponsibilityPrinciple.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/solid/SingleResponsibilityPrinciple.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -90,42 +48,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SONARLINT_PRECOMMIT_ANALYSIS": "true",
-    "last_opened_file_path": "C:/Users/shivakrishna.gandra/DataFabrics"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SONARLINT_PRECOMMIT_ANALYSIS&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/shivakrishna.gandra/DataFabrics&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\MyProject\DataStructureAlgorithms\src\main\java" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.PlayGame">
-    <configuration name="BinarySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="searching.BinarySearch" />
+  <component name="RunManager" selected="Application.SecondLargest">
+    <configuration name="Epam" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Epam" />
       <module name="DataStructureAlgorithms" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="searching.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="BubbleSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sortings.BubbleSort" />
-      <module name="DataStructureAlgorithms" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="sortings.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -156,6 +95,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SecondLargest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SecondLargest" />
+      <module name="DataStructureAlgorithms" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="StringPalindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="sortings.StringPalindrome" />
       <module name="DataStructureAlgorithms" />
@@ -171,11 +117,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SecondLargest" />
+        <item itemvalue="Application.Epam" />
         <item itemvalue="Application.PlayGame" />
         <item itemvalue="Application.StringPalindrome" />
         <item itemvalue="Application.MultiplicationMatrix" />
-        <item itemvalue="Application.BubbleSort" />
-        <item itemvalue="Application.BinarySearch" />
       </list>
     </recent_temporary>
   </component>
@@ -216,7 +162,14 @@
       <option name="project" value="LOCAL" />
       <updated>1736319636270</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="DSA commit">
+      <created>1740725981693</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1740725981693</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -235,7 +188,8 @@
     <MESSAGE value="Bubble, Insertion, Selection and searching algos" />
     <MESSAGE value="quick and merge sorting algos" />
     <MESSAGE value="OS LRU implementation added" />
-    <option name="LAST_COMMIT_MESSAGE" value="OS LRU implementation added" />
+    <MESSAGE value="DSA commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="DSA commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

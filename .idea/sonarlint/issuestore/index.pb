@@ -133,3 +133,9 @@ a
 -src/main/java/RockPaperScissor/Selection.java,9\f\9f05308a48881246880aab8a03179d08b942b358
 \
 ,src/main/java/RockPaperScissor/PlayGame.java,0\f\0f024ee3a2886a66b0f5f35f4f412c83f210168a
+G
+src/main/java/Epam.java,1\8\185b3f5c8a3ed2211f7e5ff6afc49c7290ed9b20
+P
+ src/main/java/SampleProject.java,8\d\8d9bd9e9c302d464aa0ede07cba7c925e3799945
+S
+#src/main/java/ExampleInterface.java,4\4\44d76e98a4fa4ae6f51e98d5797847f0229b3e1a
