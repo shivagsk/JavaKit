@@ -5,15 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c18b634a-5e47-4405-b162-5355ec4dbb47" name="Changes" comment="DSA commit">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Epam.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ExampleInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SampleProject.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/d/0d2a93796a52741f587d4ae127479f002d74bd58" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/d/0d2a93796a52741f587d4ae127479f002d74bd58" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/OptumProblems.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/PractiseProb.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/SecondLargest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SecondLargest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/solid/SingleResponsibilityPrinciple.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/solid/SingleResponsibilityPrinciple.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/StreamsHandsOn.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/StreamsHandsOn.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,33 +31,37 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="MavenImportPreferences">
-    <option name="importingSettings">
-      <MavenImportingSettings>
-        <option name="workspaceImportEnabled" value="true" />
-      </MavenImportingSettings>
-    </option>
-  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
   <component name="ProjectId" id="2pWUlXjf69adQ6TPuhwlBMU4sjL" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SONARLINT_PRECOMMIT_ANALYSIS&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/shivakrishna.gandra/DataFabrics&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.OptumProblems.executor": "Run",
+    "Application.PractiseProb.executor": "Run",
+    "Application.StreamsHandsOn.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "SONARLINT_PRECOMMIT_ANALYSIS": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/shivakrishna.gandra/DataFabrics",
+    "project.structure.last.edited": "SDKs",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\MyProject\DataStructureAlgorithms\src\main\java" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.SecondLargest">
+  <component name="RunManager" selected="Application.PractiseProb">
     <configuration name="Epam" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Epam" />
       <module name="DataStructureAlgorithms" />
@@ -69,28 +69,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MultiplicationMatrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sortings.MultiplicationMatrix" />
+    <configuration name="OptumProblems" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OptumProblems" />
       <module name="DataStructureAlgorithms" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="sortings.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PlayGame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="RockPaperScissor.PlayGame" />
+    <configuration name="PractiseProb" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PractiseProb" />
       <module name="DataStructureAlgorithms" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="RockPaperScissor.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -102,26 +90,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringPalindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sortings.StringPalindrome" />
+    <configuration name="StreamsHandsOn" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StreamsHandsOn" />
       <module name="DataStructureAlgorithms" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="sortings.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PractiseProb" />
+        <item itemvalue="Application.OptumProblems" />
+        <item itemvalue="Application.StreamsHandsOn" />
         <item itemvalue="Application.SecondLargest" />
         <item itemvalue="Application.Epam" />
-        <item itemvalue="Application.PlayGame" />
-        <item itemvalue="Application.StringPalindrome" />
-        <item itemvalue="Application.MultiplicationMatrix" />
       </list>
     </recent_temporary>
   </component>

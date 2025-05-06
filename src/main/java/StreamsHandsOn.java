@@ -1,6 +1,7 @@
-import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.List;
+import java.util.*;
+import java.util.stream.Collectors;
+import java.util.stream.IntStream;
+import java.util.stream.Stream;
 
 class Employee{//} implements Comparable<Employee>{
     private String name;
@@ -36,6 +37,13 @@ class Employee{//} implements Comparable<Employee>{
 }
 public class StreamsHandsOn {
     public static void main(String[] args) {
+        Set<Integer> set = new HashSet<>();
+        List<Integer> res = Stream.of(3, 4, 5, 6, 7, 7, 3, 4).filter(x -> !set.add(x)).collect(Collectors.toList());
+        System.out.println(res);
+
+        System.out.println(Stream.of(1,4,6,1,7,9,8,4).collect(Collectors.groupingBy(x -> x, Collectors.counting())));
+
+        System.out.println(Stream.of(1,2,3,4,5).reduce(0, (a,b) -> a+b));
         List<String> in = List.of("Shiva", "Sai", "Vinay");
         List<List<Employee>> employees = Arrays.asList(Arrays.asList(new Employee("Vinay", 30, 35),
                 new Employee("Shiva", 22, 10)),
